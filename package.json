@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/elmehdi-gr/snyk-demo#readme",
   "dependencies": {
-    "chalk": "^4.1.2",
-    "lodash": "^4.17.21"
+    "chalk": "^4.1.2"
   }
 }
